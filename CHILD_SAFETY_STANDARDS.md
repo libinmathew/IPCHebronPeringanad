@@ -35,6 +35,6 @@ IPC Hebron Peringanad cooperates fully with law enforcement agencies in the inve
 For questions regarding these safety standards or to report a violation, please contact our Safety Officer:
 
 **IPC Hebron Peringanad - Safety Department**
-[Insert Church Address]
-[Insert Safety Contact Email]
-[Insert Phone Number]
+Peringanad PO,Adoor
+supports.ipchebron@gmail.com
+
