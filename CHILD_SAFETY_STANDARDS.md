@@ -19,8 +19,7 @@ To comply with global safety standards and Google Play’s Child Safety policy:
 
 ## 3. Reporting Mechanisms
 We encourage all users to report any suspicious activity or potential policy violations immediately.
-*   **In-App Reporting**: Users can report profiles or content through the contact information provided in the "Contact Us" section of the app.
-*   **Direct Email**: Report any concerns regarding child safety directly to: **[Insert Church Safety Email]**.
+*   **Direct Email**: Report any concerns regarding child safety directly to: supports.ipchebron@gmail.com.
 *   **Urgent Concerns**: If a child is in immediate danger, please contact local law enforcement authorities immediately.
 
 ## 4. Content Moderation & Response
